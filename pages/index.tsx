@@ -1,5 +1,3 @@
 export default function Home() {
-  return (
-    <h1>Hello nlw4!</h1>
-  )
+  return <h1>Hello world!</h1>;
 }
