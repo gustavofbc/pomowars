@@ -8,25 +8,29 @@ Projeto desenvolvido ao longo da nlw4, promovido pela Rocketseat!
 
 
 <p align="center">
-  <a href="#clipboard-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pencil-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-## :clipboard: Descrição
+## :pencil: Descrição
 O move.it é uma aplicação inspirada na técnica de pomodoro que consiste na definição de ciclos de foco intensivo mesclada com pausas estratégicas para retomada do fôlego e devido descanso. 
 Os ciclos tem duração de 25 minutos e a cada novo ciclo concluído, são repassados certos desáfios para serem feitos e, caso concluídos, gerem experiência para que o usuário suba de nível.
 <br>
 
-## 🚀 Tecnologias
+## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+<p align="center">
+    <img alt="HTML" title="HTML" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/html.png" width="75"/>
+    <img alt="CSS3" title="CSS3" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/css.png" width="75"/>
+    <img alt="JAVASCRIPT" title="JAVASCRIPT" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/javascript.png" width="75"/>
+    <img alt="TYPESCRIPT" title="TYPESCRIPT" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/typescript.png" width="75"/>
+    <img alt="NEXTJS" title="NEXTJS" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/next_js.png" width="75"/>
+</p>
 
 ## :computer: Instalação
 
