@@ -29,6 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     <img alt="CSS3" title="CSS3" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/css.png" width="75"/>
     <img alt="JAVASCRIPT" title="JAVASCRIPT" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/javascript.png" width="75"/>
     <img alt="TYPESCRIPT" title="TYPESCRIPT" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/typescript.png" width="75"/>
+    <img alt="REACT" title="REACT" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/react.png" width="75"/>
     <img alt="NEXTJS" title="NEXTJS" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/next_js.png" width="75"/>
 </p>
 
