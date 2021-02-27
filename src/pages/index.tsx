@@ -35,12 +35,12 @@ export default function Home(props) {
 
         <CountdownProvider>
           <section>
-            <div>
+            <div className={styles.containerInfoUser}>
               <Profile />
               <CompletedChallenges />
               <Countdown />
             </div>
-            <div>
+            <div className={styles.containerInfoChallenge}>
               <ChallengeBox />
             </div>
           </section>

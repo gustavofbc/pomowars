@@ -16,3 +16,18 @@
   gap: 6.25rem; /*100px*/
   align-content: center;
 }
+
+@media (max-width: 720px) {
+  .container section {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .container section .containerInfoUser {
+    margin-top: 4rem;
+  }
+
+  .container section .containerInfoChallenge {
+    margin-bottom: 2rem;
+  }
+}
