@@ -26,15 +26,14 @@ export default function Home(props: HomeProps) {
     >
       <div className={styles.container}>
         <Head>
-          <title>Início | move.it</title>
+          <title>Início | pomowars</title>
         </Head>
-
-        <ExperienceBar />
 
         <CountdownProvider>
           <section>
             <div className={styles.containerInfoUser}>
               <Profile />
+              <ExperienceBar />
               <CompletedChallenges />
               <Countdown />
             </div>

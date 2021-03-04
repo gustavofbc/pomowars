@@ -2,10 +2,13 @@
   display: flex;
   align-items: center;
   margin-bottom: 2rem;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 .experienceBar span {
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 /* o ">" pega exatamente a div que está dentro do experienceBar, sendo a de primeiro nível*/
 .experienceBar > div {
@@ -20,13 +23,15 @@
 .experienceBar > div > div {
   height: 4px;
   border-radius: 4px;
-  background-color: var(--green);
+  background-color: var(--midi-chlorians);
 }
 
 span.currentExperience {
   position: absolute;
   top: 12px;
   transform: translateX(-50%);
+  font-size: 0.6rem;
+  color: var(--midi-chlorians);
 }
 
 @media (max-width: 720px) {
