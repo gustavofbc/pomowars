@@ -29,6 +29,7 @@ export default function Home(props: HomeProps) {
           <title>Início | pomowars</title>
         </Head>
 
+        <img src="icons/pomowars.gif" alt="pomowars" width="100px" />
         <CountdownProvider>
           <section>
             <div className={styles.containerInfoUser}>

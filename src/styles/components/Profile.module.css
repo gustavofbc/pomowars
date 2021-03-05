@@ -17,7 +17,7 @@
 .profileContainer div strong {
   font-size: 1rem;
   font-weight: 600;
-  color: var(--title);
+  color: var(--blue-twitter);
 }
 
 .profileContainer div p {

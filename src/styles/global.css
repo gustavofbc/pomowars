@@ -13,15 +13,16 @@
   --title: #2e384d;
   --red: #e83f5b;
   --green: #4cd62b;
-  --blue: #ffe81f;
-  --blue-dark: #f0d800;
+  --yellow: #ffe81f;
+  --yellow-dark: #f0d800;
   --blue-twitter: #2aa9e0;
   --midi-chlorians: #19c7b0;
+  --black: #000000;
 }
 
 body {
   background: var(--background);
-  background-image: url("../../public/background_teste.png");
+  /* background: linear-gradient(var(--black), var(--yellow)); */
   color: var(--text);
 }
 
