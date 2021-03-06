@@ -47,7 +47,7 @@
 .challengeActive header {
   color: var(--yellow);
   font-weight: 600;
-  font-size: 1.25rem;
+  font-size: 1rem;
   padding: 0 2rem 1.5rem;
   border-bottom: 1px solid var(--gray-line);
 }
@@ -61,7 +61,7 @@
 }
 
 .challengeActive main strong {
-  font-size: 2rem;
+  font-size: 1.2rem;
   font-weight: 600;
   color: var(--title);
   margin: 1.5rem 0 1rem;
@@ -69,6 +69,7 @@
 
 .challengeActive main p {
   line-height: 1.5;
+  font-size: 0.8rem;
 }
 
 .challengeActive footer {
@@ -85,7 +86,7 @@
   border: 0;
   border-radius: 5px;
   color: var(--white);
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-weight: 600;
 
   transition: 0.2s;

@@ -16,8 +16,8 @@
   background: var(--white);
   box-shadow: 0 0 60px rgba(0, 0, 0, 0.05);
   border-radius: 5px;
-  font-size: 4rem;
-  padding: 1rem;
+  font-size: 3.75rem;
+  padding: 0.8rem;
   text-align: center;
 }
 
@@ -25,13 +25,13 @@
   flex: 1;
 }
 
-.countdownContainer > div span:first-child {
-  border-right: 3px solid #f1f0f3;
+/* .countdownContainer > div span:first-child {
+  border-right: 1px solid var(--title);
 }
 
 .countdownContainer > div span:last-child {
-  border-left: 3px solid #f1f0f3;
-}
+  border-left: 1px solid var(--title);
+} */
 
 .countdownContainer > span {
   font-size: 3rem;
@@ -83,6 +83,7 @@
 
 .countdownButton:disabled {
   background: var(--white);
-  color: var(--title);
+  color: var(--text);
+  border-bottom: 3px solid var(--text);
   cursor: not-allowed;
 }

@@ -23,22 +23,26 @@
 }
 
 .container header {
-  font-size: 8.75rem;
+  font-size: 5.75rem;
   font-weight: 600;
   color: var(--yellow);
+  text-shadow: 2px 2px var(--black);
   background: url("/icons/levelup.svg") no-repeat center;
   background-size: contain;
+  margin-bottom: 1rem;
+  padding: 0.8rem;
 }
 
 .container strong {
-  font-size: 2.25rem;
+  font-size: 1.75rem;
   color: var(--title);
 }
 
 .container p {
-  font-size: 1.25rem;
+  line-height: 1.4rem;
+  font-size: 0.8rem;
   color: var(--text);
-  margin-top: 0.25rem;
+  margin-top: 0.8rem;
 }
 
 .container button {
