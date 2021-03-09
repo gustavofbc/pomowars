@@ -14,7 +14,7 @@ export function LevelUpModal() {
         <p>Você alcançou um novo level.</p>
 
         <button type="button" onClick={closeLevelUpModal}>
-          <img src="/icons/close.svg" alt="Fechar modal" />
+          <img src="/icons/close1.svg" alt="Fechar modal" />
         </button>
       </div>
     </div>

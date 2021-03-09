@@ -15,7 +15,7 @@
   background: var(--white);
   width: 100%;
   max-width: 400px;
-  padding: 2rem 3rem;
+  padding: 1.8rem 2.4rem;
   border-radius: 5px;
   box-shadow: 0, 0, 0, 60px rgba(0, 0, 0, 0.05);
   text-align: center;
@@ -23,14 +23,15 @@
 }
 
 .container header {
-  font-size: 5.75rem;
+  font-size: 5rem;
   font-weight: 600;
-  color: var(--yellow);
+  color: #753bcc;
   text-shadow: 2px 2px var(--black);
-  background: url("/icons/levelup.svg") no-repeat center;
+  background: url("/icons/coroa.svg") no-repeat center;
+  /* background: url("/icons/levelup.svg") no-repeat center; */
   background-size: contain;
   margin-bottom: 1rem;
-  padding: 0.8rem;
+  padding: 3rem;
 }
 
 .container strong {
@@ -52,4 +53,12 @@
   background: transparent;
   border: 0;
   font-size: 0; /*acessibilidade: sempre colocar qunando button é só uma img*/
+}
+
+.container button img {
+  transition: 0.2s;
+}
+
+.container button img:hover {
+  opacity: 0.8;
 }
