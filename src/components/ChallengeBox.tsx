@@ -26,7 +26,7 @@ export function ChallengeBox() {
           <header>Ganhe {activeChallenge.amount} xp (Midi-chlorians) </header>
 
           <main>
-            <img src={`icons/${activeChallenge.type}.svg`} alt="" />
+            <img src={`icons/${activeChallenge.type}.gif`} alt="" />
             <strong>Missão da expedição</strong>
             <p>{activeChallenge.description}</p>
           </main>
