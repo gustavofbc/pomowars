@@ -1,9 +1,9 @@
-# <img alt="Todos" title="move.it" src="./public/favicon.png" width="20px" /> moveit 
+# <img alt="pomowars" title="pomowars" src="./public/favicon1.png" width="20px" /> pomowars 
 
 Projeto desenvolvido ao longo da nlw4, promovido pela Rocketseat!
 
 <h1 align="center">
-    <img alt="Todos" title="move.it" src="./public/logo-full.svg" />
+    <img alt="pomowars" title="pomowars" src="./public/icons/pomowars.gif" />
 </h1>
 
 
@@ -16,7 +16,7 @@ Projeto desenvolvido ao longo da nlw4, promovido pela Rocketseat!
 <br>
 
 ## :pencil: Descrição
-O move.it é uma aplicação inspirada na técnica de pomodoro que consiste na definição de ciclos de foco intensivo mesclada com pausas estratégicas para retomada do fôlego e devido descanso. 
+O pomowars é uma aplicação inspirada na técnica de pomodoro que consiste na definição de ciclos de foco intensivo mesclada com pausas estratégicas para retomada do fôlego e devido descanso. 
 Os ciclos tem duração de 25 minutos e a cada novo ciclo concluído, são repassados certos desáfios para serem feitos e, caso concluídos, gerem experiência para que o usuário suba de nível.
 <br>
 
