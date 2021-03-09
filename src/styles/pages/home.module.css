@@ -34,10 +34,11 @@
   }
 
   .container section .containerInfoUser {
-    margin-top: 4rem;
+    margin-top: 1rem;
+    padding-bottom: 1rem;
   }
 
   .container section .containerInfoChallenge {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
   }
 }

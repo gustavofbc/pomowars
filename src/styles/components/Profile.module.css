@@ -30,3 +30,9 @@
   margin-right: 0.2rem;
   margin-bottom: -4px;
 }
+
+@media (max-width: 720px) {
+  .profileContainer div strong {
+    font-size: 0.9rem;
+  }
+}

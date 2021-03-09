@@ -24,3 +24,13 @@
   text-shadow: 2px 2px black;
   border-radius: 5px;
 }
+
+@media (max-width: 720px) {
+  .completedChallengesContainer {
+    margin: 5rem 1rem;
+  }
+
+  .completedChallengesContainer span:first-child {
+    font-size: 0.8rem;
+  }
+}
