@@ -23,7 +23,7 @@ export function ChallengeBox() {
     <div className={styles.challengeBoxContainer}>
       {activeChallenge ? (
         <div className={styles.challengeActive}>
-          <header>Ganhe {activeChallenge.amount} xp (Midi-chlorians) </header>
+          <header>Ganhe {activeChallenge.amount} Midi-chlorians </header>
 
           <main>
             <img src={`icons/${activeChallenge.type}.gif`} alt="" />

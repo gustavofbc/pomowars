@@ -77,7 +77,7 @@ export function ChallengesProvider({
       new Audio("/notification.mp3").play();
 
       new Notification("Nova missão 🎉", {
-        body: `Valendo ${challenge.amount} xp!`,
+        body: `Valendo ${challenge.amount} Mid!`,
       });
     }
   }
