@@ -1,6 +1,6 @@
 # <img alt="pomowars" title="pomowars" src="./public/favicon1.png" width="20px" /> pomowars 
 
-Projeto desenvolvido ao longo da nlw4, promovido pela Rocketseat!
+Projeto desenvolvido a partir da versão final do move.it, aplicação criada na nlw4 promovida pela Rocketseat!
 
 <h1 align="center">
     <img alt="pomowars" title="pomowars" src="./public/icons/pomowars.gif" />
